@@ -7,6 +7,8 @@ gem 'rails', '3.2.13'
 
 gem 'sqlite3'
 
+ge 'mysql2' # For production on OpenShift gear with mysql cartridge
+
 # For caching
 gem 'redis' 
 
